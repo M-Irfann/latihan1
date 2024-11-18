@@ -1,0 +1,19 @@
+[
+  {
+    "name": "samsung",
+    "price": "6 Juta",
+    "description": "gen 7"
+  },
+  {
+    "id": 2,
+    "name": "lenovo idepad",
+    "description": "gen 7",
+    "price": "4 juta"
+  },
+  {
+    "id": 3,
+    "name": "lenovo slim",
+    "description": "gen 7",
+    "price": "4 juta"
+  }
+]
